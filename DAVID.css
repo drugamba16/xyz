@@ -1,0 +1,8 @@
+body{background-color: gray}
+p{font-size: 20px; color: WHITE; text-align: justify; line-height: 1.8;}
+h1{text-align: center;color: white;background-color: blue;}
+
+a:link{text-decoration: none; color:gray; background-color: greenyellow; border-radius: 15px;font-size: 250%;}
+a:visited{color: white;}
+a:hover{color: gray; background-color:lightcyan;}
+a:active{color: cyane;}
